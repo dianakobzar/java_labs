@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fpm.labs.lab4.SimpsonRuleTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-01-06T20:12:44" hostname="DESKTOP-37KUURL" time="0.121">
+  <properties/>
+  <testcase name="integrateSomeFunctionShouldEqualIntegrateFunctionCos()" classname="fpm.labs.lab4.SimpsonRuleTest" time="0.036"/>
+  <testcase name="integrateSomeFunctionShouldEqualIntegrateFunctionSin()" classname="fpm.labs.lab4.SimpsonRuleTest" time="0.005"/>
+  <testcase name="integrateSomeFunctionShouldEqualIntegrateFunctionTan()" classname="fpm.labs.lab4.SimpsonRuleTest" time="0.005"/>
+  <testcase name="integrateDefaultFunctionShouldEqualIntegrateFunctionF1()" classname="fpm.labs.lab4.SimpsonRuleTest" time="0.07"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
